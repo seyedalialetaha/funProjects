@@ -1,0 +1,3 @@
+[submodule "wordle-resolver"]
+	path = wordle-resolver
+	url = https://github.com/seyedalialetaha/wordle-resolver
