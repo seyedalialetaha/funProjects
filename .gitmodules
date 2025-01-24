@@ -1,3 +1,6 @@
 [submodule "wordle-resolver"]
 	path = wordle-resolver
 	url = git@github.com:seyedalialetaha/wordle-resolver.git
+[submodule "wordle-game"]
+	path = wordle-game
+	url = git@github.com:seyedalialetaha/wordle-game.git
